@@ -1,0 +1,23 @@
+{
+  "name": "jsweb",
+  "version": "1.0.0",
+  "description": ":blush:# MidiiPad :v:",
+  "main": "main.js",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoHCpunk/MidiiPad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoHCpunk/MidiiPad/issues"
+  },
+  "homepage": "https://github.com/GustavoHCpunk/MidiiPad#readme"
+}
